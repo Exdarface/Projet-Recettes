@@ -51,5 +51,12 @@ namespace Recette
                 y += 35;
             }
         }
+
+        private void btnNext_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form stepTwo = new StepTwo();
+            stepTwo.Show();
+        }
     }
 }

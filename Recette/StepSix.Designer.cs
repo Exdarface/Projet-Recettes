@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(StepSix));
             this.lblChoixRecettes = new System.Windows.Forms.Label();
             this.lblPseudo = new System.Windows.Forms.Label();
             this.lblNote = new System.Windows.Forms.Label();
@@ -174,11 +173,10 @@
             this.btnEnregistrer.Text = "Enregistrer";
             this.btnEnregistrer.UseVisualStyleBackColor = true;
             // 
-            // frmCommentaires
+            // StepSix
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 14F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.ClientSize = new System.Drawing.Size(933, 485);
             this.Controls.Add(this.btnEnregistrer);
             this.Controls.Add(this.btnAnnuler);
@@ -195,7 +193,8 @@
             this.Controls.Add(this.lblChoixRecettes);
             this.Font = new System.Drawing.Font("Arial", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
-            this.Name = "frmCommentaires";
+            this.Name = "StepSix";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Notez vos recettes";
             this.Load += new System.EventHandler(this.StepSix_Load);
             this.ResumeLayout(false);

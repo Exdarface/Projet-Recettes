@@ -46,3 +46,4 @@ C:\Users\yoann\Documents\Semestre 2\Projet D21\Recette\Recette\obj\Debug\Recette
 C:\Users\yoann\Documents\Semestre 2\Projet D21\Recette\Recette\obj\Debug\Recette.pdb
 C:\Users\yoann\Documents\Semestre 2\Projet D21\Recette\Recette\obj\Debug\Recette.StepThree.resources
 C:\Users\yoann\Documents\Semestre 2\Projet D21\Recette\Recette\obj\Debug\Recette.StepSix.resources
+C:\Users\yoann\Documents\Semestre 2\Projet D21\Recette\Recette\obj\Debug\Recette.StepTwo.resources

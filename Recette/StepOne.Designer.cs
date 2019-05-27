@@ -33,8 +33,8 @@
             this.pnlFamilles = new System.Windows.Forms.Panel();
             this.pnlListe = new System.Windows.Forms.Panel();
             this.pnlChoix = new System.Windows.Forms.Panel();
-            this.btnNext = new System.Windows.Forms.Button();
             this.lblChoix = new System.Windows.Forms.Label();
+            this.btnNext = new System.Windows.Forms.Button();
             this.gpbFamille.SuspendLayout();
             this.pnlChoix.SuspendLayout();
             this.SuspendLayout();
@@ -87,15 +87,6 @@
             this.pnlChoix.Size = new System.Drawing.Size(455, 139);
             this.pnlChoix.TabIndex = 3;
             // 
-            // btnNext
-            // 
-            this.btnNext.Location = new System.Drawing.Point(756, 435);
-            this.btnNext.Name = "btnNext";
-            this.btnNext.Size = new System.Drawing.Size(100, 46);
-            this.btnNext.TabIndex = 4;
-            this.btnNext.Text = "Next step";
-            this.btnNext.UseVisualStyleBackColor = true;
-            // 
             // lblChoix
             // 
             this.lblChoix.AutoSize = true;
@@ -104,6 +95,16 @@
             this.lblChoix.Size = new System.Drawing.Size(46, 17);
             this.lblChoix.TabIndex = 0;
             this.lblChoix.Text = "label1";
+            // 
+            // btnNext
+            // 
+            this.btnNext.Location = new System.Drawing.Point(756, 435);
+            this.btnNext.Name = "btnNext";
+            this.btnNext.Size = new System.Drawing.Size(100, 46);
+            this.btnNext.TabIndex = 4;
+            this.btnNext.Text = "Next step";
+            this.btnNext.UseVisualStyleBackColor = true;
+            this.btnNext.Click += new System.EventHandler(this.btnNext_Click);
             // 
             // StepOne
             // 
