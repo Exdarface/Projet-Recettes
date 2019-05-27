@@ -32,3 +32,17 @@ D:\Fichiers\IUT2018-19\S2\D21\Projet Recette 2019\Recette\Recette\obj\Debug\Rece
 D:\Fichiers\IUT2018-19\S2\D21\Projet Recette 2019\Recette\Recette\obj\Debug\Recette.csproj.CoreCompileInputs.cache
 D:\Fichiers\IUT2018-19\S2\D21\Projet Recette 2019\Recette\Recette\obj\Debug\Recette.exe
 D:\Fichiers\IUT2018-19\S2\D21\Projet Recette 2019\Recette\Recette\obj\Debug\Recette.pdb
+C:\Users\yoann\Documents\Semestre 2\Projet D21\Recette\Recette\bin\Debug\Recette.exe.config
+C:\Users\yoann\Documents\Semestre 2\Projet D21\Recette\Recette\bin\Debug\Recette.exe
+C:\Users\yoann\Documents\Semestre 2\Projet D21\Recette\Recette\bin\Debug\Recette.pdb
+C:\Users\yoann\Documents\Semestre 2\Projet D21\Recette\Recette\obj\Debug\Recette.csprojAssemblyReference.cache
+C:\Users\yoann\Documents\Semestre 2\Projet D21\Recette\Recette\obj\Debug\Recette.Buttons.resources
+C:\Users\yoann\Documents\Semestre 2\Projet D21\Recette\Recette\obj\Debug\Recette.Properties.Resources.resources
+C:\Users\yoann\Documents\Semestre 2\Projet D21\Recette\Recette\obj\Debug\Recette.Step3UC.resources
+C:\Users\yoann\Documents\Semestre 2\Projet D21\Recette\Recette\obj\Debug\Recette.StepOne.resources
+C:\Users\yoann\Documents\Semestre 2\Projet D21\Recette\Recette\obj\Debug\Recette.csproj.GenerateResource.cache
+C:\Users\yoann\Documents\Semestre 2\Projet D21\Recette\Recette\obj\Debug\Recette.csproj.CoreCompileInputs.cache
+C:\Users\yoann\Documents\Semestre 2\Projet D21\Recette\Recette\obj\Debug\Recette.exe
+C:\Users\yoann\Documents\Semestre 2\Projet D21\Recette\Recette\obj\Debug\Recette.pdb
+C:\Users\yoann\Documents\Semestre 2\Projet D21\Recette\Recette\obj\Debug\Recette.StepThree.resources
+C:\Users\yoann\Documents\Semestre 2\Projet D21\Recette\Recette\obj\Debug\Recette.StepSix.resources

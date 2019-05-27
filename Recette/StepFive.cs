@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace Recette
 {
-    public partial class StepThree : Form
+    public partial class StepFive : Form
     {
-        public StepThree()
+        public StepFive()
         {
             InitializeComponent();
-        }
-
-        private void StepThree_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }

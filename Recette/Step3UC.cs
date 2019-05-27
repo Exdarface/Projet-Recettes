@@ -36,5 +36,10 @@ namespace Recette
             this.price = price;
             this.image = imagePath;
         }
+
+        private void Step3UC_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

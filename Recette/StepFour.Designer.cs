@@ -1,6 +1,6 @@
 ﻿namespace Recette
 {
-    partial class StepThree
+    partial class StepFour
     {
         /// <summary>
         /// Required designer variable.
@@ -28,18 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.SuspendLayout();
-            // 
-            // StepThree
-            // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Name = "StepThree";
-            this.Text = "StepThree";
-            this.Load += new System.EventHandler(this.StepThree_Load);
-            this.ResumeLayout(false);
-
+            this.Text = "StepFour";
         }
 
         #endregion

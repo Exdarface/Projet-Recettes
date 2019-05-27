@@ -102,6 +102,7 @@
             this.Controls.Add(this.pibMiniature);
             this.Name = "Step3UC";
             this.Size = new System.Drawing.Size(741, 180);
+            this.Load += new System.EventHandler(this.Step3UC_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pibMiniature)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pibHorloge)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pibPrice)).EndInit();

@@ -27,7 +27,7 @@ namespace Recette
         }
 
         Panel pnl = new Panel();
-        OleDbConnection connec = new OleDbConnection(@"Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Fichiers\IUT2018-19\S2\D21\Projet Recette 2019\baseFrigo1.mdb");
+        OleDbConnection connec = new OleDbConnection(@"Provider=Microsoft.Jet.OLEDB.4.0;Data Source=..\..\..\Base\baseFrigo.mdb");
         DataSet ds = new DataSet();
 
         private void Buttons_Load(object sender, EventArgs e)
